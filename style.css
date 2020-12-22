@@ -3,7 +3,7 @@
     padding: 0;
     font-family: consolas;
 }
-body{
+.buttons{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ a{
     transition: 0.5s;
     overflow: hidden;
 }
-a:hover{
+a:nth-child(1):hover{
     background: red;
 }
 a:nth-child(2):hover{
