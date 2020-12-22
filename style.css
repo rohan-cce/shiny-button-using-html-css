@@ -27,5 +27,8 @@ a:hover{
     background: red;
 }
 a:nth-child(2):hover{
-    background: green;
+    background:#00cc00;
+}
+a:nth-child(3):hover{
+    background: #3385ff;
 }
