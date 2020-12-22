@@ -64,3 +64,6 @@ a::before{
     background: linear-gradient(90deg,transparent,#fff,transparent);
     transition: 0.5s;
 }
+a:hover::before{
+    left: 100%;
+}
