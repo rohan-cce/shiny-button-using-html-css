@@ -12,3 +12,11 @@ body{
     background: #19011d;
 
 }
+a{
+    position: relative;
+    padding: 15px 30px;
+    margin: 10px;
+    background: #27022d;
+    color:#fff;
+    text-decoration: none;
+}
