@@ -23,3 +23,9 @@ a{
     border: 1px solid #000;
     transition: 0.5s;
 }
+a:hover{
+    background: red;
+}
+a:nth-child(2):hover{
+    background: green;
+}
