@@ -1,7 +1,7 @@
 # shiny-button-using-html-css
-shiny button using html and css
+Shiny Button Using HTML & CSS
 
-###### **Here is the link of [Live Demo](https://rohan-cce.github.io/2021-new-year-wishes)**
+###### **Here is the link of [Live Demo](https://rohan-cce.github.io/shiny-button-using-html-css/)**
 
 
 ## Technology Stack Used
